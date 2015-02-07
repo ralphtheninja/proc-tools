@@ -1,6 +1,6 @@
 {
   "name": "proc-tools",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "reads data from various /proc/pid/* file descriptors",
   "main": "index.js",
   "homepage": "https://github.com/ralphtheninja/proc-tools",
